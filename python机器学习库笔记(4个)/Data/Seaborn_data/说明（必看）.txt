@@ -1,0 +1,2 @@
+Seaborn的其他数据如 "tips" 等是seaborn库自带的数据
+为以防万一，我也备了一份在文件中  文件名： seaborn-data  里面有四个文件
